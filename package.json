@@ -1,0 +1,15 @@
+{
+  "name": "ayollar-libosi-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Ayollar Libosi shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
